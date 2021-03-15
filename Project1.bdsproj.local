@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.03.31 23:58:12.140.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp</Transaction>
+    <Transaction>2009.03.31 23:58:12.140.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h</Transaction>
+    <Transaction>2009.03.31 23:58:12.140.dfm,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.dfm</Transaction>
+    <Transaction>2009.03.31 23:58:14.562.bdsproj,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Project1.bdsproj</Transaction>
+    <Transaction>2009.04.05 01:01:37.656.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit2.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Filter.cpp</Transaction>
+    <Transaction>2009.04.05 01:01:37.656.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit2.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Filter.h</Transaction>
+    <Transaction>2009.04.05 01:32:35.187.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.cpp</Transaction>
+    <Transaction>2009.04.05 01:32:35.187.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.h</Transaction>
+    <Transaction>2009.04.05 01:32:35.187.dfm,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.dfm=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.dfm</Transaction>
+    <Transaction>2009.04.05 01:36:10.218.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\VCLmain.cpp</Transaction>
+    <Transaction>2009.04.05 01:36:10.218.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\VCLmain.h</Transaction>
+    <Transaction>2009.04.05 01:36:10.218.dfm,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Main.dfm=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\VCLmain.dfm</Transaction>
+    <Transaction>2009.04.19 20:18:18.281.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Gistrogr.cpp</Transaction>
+    <Transaction>2009.04.19 20:18:18.281.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Gistrogr.h</Transaction>
+    <Transaction>2009.04.19 20:19:24.031.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Gistrogr.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Histrogr.cpp</Transaction>
+    <Transaction>2009.04.19 20:19:24.031.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Gistrogr.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Histrogr.h</Transaction>
+    <Transaction>2009.04.22 01:22:55.392.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Canny.cpp</Transaction>
+    <Transaction>2009.04.22 01:22:55.408.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Canny.h</Transaction>
+    <Transaction>2009.04.23 19:48:35.843.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Morf.cpp</Transaction>
+    <Transaction>2009.04.23 19:48:35.843.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Morf.h</Transaction>
+    <Transaction>2009.05.13 18:45:15.093.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Kontyr.cpp</Transaction>
+    <Transaction>2009.05.13 18:45:15.093.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Kontyr.h</Transaction>
+    <Transaction>2009.05.23 00:31:43.296.cpp,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.cpp=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Prosl.cpp</Transaction>
+    <Transaction>2009.05.23 00:31:43.296.h,C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Unit1.h=C:\Documents and Settings\Пользователь\Мои документы\Borland Studio Projects\Proj1\Prosl.h</Transaction>
+  </Transactions>
+</BorlandProject>
